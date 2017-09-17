@@ -1,0 +1,14 @@
+Abel Zatarain
+Assignment 1
+ 
+My game build is ‘Assignment 1 Build’.  I recommend running it at 1280 x 720 resolution, but 1920 x 1080 resolution should be fine as well.
+
+My game is a dodge-style game where the player must dodge waves of up to eight cubes arranged in a 3x3 formation in a random pattern.  The player, who controls a smaller orange cube, must dodge the random pattern of purple cubes.  The PoV is 3rd person, the camera’s offset is meant to allow the player to see incoming waves somewhat.
+
+Every 3 seconds, a new wave spawns in front of the object off into the distance, and comes flying at the player.  The player can move in the ‘x’ and ‘y’ directions to dodge the purple cubes.  The white and red ‘rails’ outline the space where the cubes will spawn, and should help with player placement.  As a hint, the cube’s shadow aligns with the bottom rail and one of the ‘hills’ to the distance when it is right in the center.   Every five waves, the waves will spawn slightly faster, and the stage number will increase.  Once the player’s cube collides with a purple cube, the game is over.
+
+The main menu is largely based on the ‘Live Training 5th September 2016 – Creating a Main Menu’ YouTube video on the unity channel.  I edited the buttons to suit my needs.
+
+I mainly based this game code on the Unity Space Shooter Tutorial.  The scripts from Unity Space Shooter were DestroyByBoundary to destroy the spawned waves, DestroyByTime to destroy the explosions, DestroyByContact, Mover, and PlayerController.  I also used the prefabs and sounds for the explosion between the purple cubes and the player cube. I modified DestroyByContact so that the purple cubes would only destroy the player.  I changed movement from the z-axis to the y-axis.  My code for spawning the waves of cubes in the Game Controller was based on spawning asteroids in space shooter, but did my own method for spawning each cube based on whether a random value was bigger than 0.5, a Boolean value.  That snippet of code I got from the unity forums.  To restart the game, I got the code from YouTube comments on ‘Ending the game - 15 - Space Shooter - Unity Official Tutorials’. I also created the soundtrack for the game using Ableton Live.
+
+I learned a great deal from this assignment including using Unity itself, spawning objects, managing and destroying objects created in the game, creating a terrain, calling another function on another component on a different game object (in ‘Counting Points - 14 - Space Shooter - Unity Official Tutorials’ Unity YouTube video)
