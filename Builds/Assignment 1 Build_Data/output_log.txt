@@ -1,0 +1,101 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) Iris(TM) Plus Graphics 640 (ID=0x5926)
+    Vendor:   Intel
+    VRAM:     2157 MB
+    Driver:   21.20.16.4636
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\abeza\Desktop\CS 485 Assignments\Assignment 1\Builds\Assignment 1 Build_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\abeza\Desktop\CS 485 Assignments\Assignment 1\Builds\Assignment 1 Build_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\abeza\Desktop\CS 485 Assignments\Assignment 1\Builds\Assignment 1 Build_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\abeza\Desktop\CS 485 Assignments\Assignment 1\Builds\Assignment 1 Build_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\abeza\Desktop\CS 485 Assignments\Assignment 1\Builds\Assignment 1 Build_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\abeza\Desktop\CS 485 Assignments\Assignment 1\Builds\Assignment 1 Build_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\abeza\Desktop\CS 485 Assignments\Assignment 1\Builds\Assignment 1 Build_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\abeza\Desktop\CS 485 Assignments\Assignment 1\Builds\Assignment 1 Build_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\abeza\Desktop\CS 485 Assignments\Assignment 1\Builds\Assignment 1 Build_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\abeza\Desktop\CS 485 Assignments\Assignment 1\Builds\Assignment 1 Build_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\abeza\Desktop\CS 485 Assignments\Assignment 1\Builds\Assignment 1 Build_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\abeza\Desktop\CS 485 Assignments\Assignment 1\Builds\Assignment 1 Build_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.227 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.801436 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2fb8 -> priority: 1 
+  Thread -> id: 33e8 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.861541 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 466.
+Total: 0.327384 ms (FindLiveObjects: 0.031179 ms CreateObjectMapping: 0.016000 ms MarkObjects: 0.214153 ms  DeleteObjects: 0.065230 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.388512 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 377.
+Total: 0.269538 ms (FindLiveObjects: 0.031179 ms CreateObjectMapping: 0.009435 ms MarkObjects: 0.182564 ms  DeleteObjects: 0.045948 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.571897 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 466.
+Total: 0.275282 ms (FindLiveObjects: 0.030358 ms CreateObjectMapping: 0.014358 ms MarkObjects: 0.193641 ms  DeleteObjects: 0.035692 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.692513 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 377.
+Total: 0.355692 ms (FindLiveObjects: 0.123487 ms CreateObjectMapping: 0.011897 ms MarkObjects: 0.176410 ms  DeleteObjects: 0.042256 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.412307 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 807.
+Total: 0.503795 ms (FindLiveObjects: 0.039794 ms CreateObjectMapping: 0.015589 ms MarkObjects: 0.259282 ms  DeleteObjects: 0.187487 ms)
+
+Audio source is playing an ambisonic audio clip, but an ambisonic decoder could not be created successfully. Make sure an ambisonic decoder is selected in the audio settings.
+ 
+(Filename:  Line: 1111)
+
+Audio source is playing an ambisonic audio clip, but an ambisonic decoder could not be created successfully. Make sure an ambisonic decoder is selected in the audio settings.
+ 
+(Filename:  Line: 1111)
+
+Audio source is playing an ambisonic audio clip, but an ambisonic decoder could not be created successfully. Make sure an ambisonic decoder is selected in the audio settings.
+ 
+(Filename:  Line: 1111)
+
+Audio source is playing an ambisonic audio clip, but an ambisonic decoder could not be created successfully. Make sure an ambisonic decoder is selected in the audio settings.
+ 
+(Filename:  Line: 1111)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.787283 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 808.
+Total: 0.970256 ms (FindLiveObjects: 0.067692 ms CreateObjectMapping: 0.044307 ms MarkObjects: 0.553025 ms  DeleteObjects: 0.304410 ms)
+
+Audio source is playing an ambisonic audio clip, but an ambisonic decoder could not be created successfully. Make sure an ambisonic decoder is selected in the audio settings.
+ 
+(Filename:  Line: 1111)
+
+Audio source is playing an ambisonic audio clip, but an ambisonic decoder could not be created successfully. Make sure an ambisonic decoder is selected in the audio settings.
+ 
+(Filename:  Line: 1111)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.175590 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 808.
+Total: 0.836102 ms (FindLiveObjects: 0.050051 ms CreateObjectMapping: 0.027487 ms MarkObjects: 0.546051 ms  DeleteObjects: 0.211282 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.668308 ms
+
+Unloading 94 unused Assets to reduce memory usage. Loaded Objects now: 383.
+Total: 2.330257 ms (FindLiveObjects: 0.041025 ms CreateObjectMapping: 0.022153 ms MarkObjects: 0.264205 ms  DeleteObjects: 2.001641 ms)
+
