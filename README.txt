@@ -1,7 +1,6 @@
 Abel Zatarain
-Assignment 1
  
-My game build is ‘Assignment 1 Build’.  It is a dodge-style game where the player must dodge waves of up to eight cubes arranged in a 3x3 formation in a random pattern.  The player, who controls a smaller orange cube, must dodge the random pattern of purple cubes.  The PoV is 3rd person, the camera’s offset is meant to allow the player to see incoming waves somewhat.
+This is a dodge-style game where the player must dodge waves of up to eight cubes arranged in a 3x3 formation in a random pattern.  The player, who controls a smaller orange cube, must dodge the random pattern of purple cubes.  The PoV is 3rd person, the camera’s offset is meant to allow the player to see incoming waves somewhat.
 
 Every 3 seconds, a new wave spawns in front of the object off into the distance, and comes flying at the player.  The player can move in the ‘x’ and ‘y’ directions to dodge the purple cubes.  The white and red ‘rails’ outline the space where the cubes will spawn, and should help with player placement.  As a hint, the cube’s shadow aligns with the bottom rail and one of the ‘hills’ to the distance when it is right in the center.   Every five waves, the waves will spawn slightly faster, and the stage number will increase.  Once the player’s cube collides with a purple cube, the game is over.
 
